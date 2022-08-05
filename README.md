@@ -3,7 +3,6 @@
 ## Ciência de Dados;
 
 O objetivo da aula 04 foi criar um modelo de previsão de vendas a partir do histórico de vendas e do investimento em marketing de uma determinada empresa. Conforme os dados analisados, o sistema foi capaz de interpretar a tabela em um pequeno modelo de antecedência de vendas utilizando Inteligência Artificial.
-Artificial
 
 ## Análise Exploratória;
 
